@@ -8,10 +8,12 @@
 // white: #fff; 
 @import "./partials/setup";
 @import "./partials/variables";
+@import "./partials/sections";
 @import "./partials/header";
 @import "./partials/typography";
 @import "./partials/baseStyles";
 @import "./partials/footer";
+@import "./partials/mediaQueries.scss"
 
 
 // HEADINGS:
