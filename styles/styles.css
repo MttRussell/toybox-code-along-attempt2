@@ -624,6 +624,19 @@ a.button:focus {
   color: #fff;
 }
 
+.skip-link {
+  position: absolute;
+  left: -1000px;
+  top: 5px;
+  z-index: 999;
+  background: white;
+  color: black;
+}
+
+.skip-link:focus {
+  left: 0;
+}
+
 footer {
   background-color: #084b6d;
   color: #fff;
